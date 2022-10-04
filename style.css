@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    padding: 10px;
+}
+body{
+    background-color: lightgrey;
+}
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 50px;
+}
+header img{
+    vertical-align: middle;
+    width: 50px;
+}
+.container-button{
+    max-width: 1200px;
+    background-color: white;
+    border-radius: 3px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 40px 10px;
+    
+}
+
+.first-button{
+    background-color: rgb(35, 97, 211);
+    border: none;
+    color: white;
+    border-radius: 2px;
+    padding: 5px;
+    margin-left: 40px;
+}
+.second-button{
+    background-color: whitesmoke;
+    border: 1px solid rgb(185, 185, 185);
+    color: rgb(163, 163, 163);
+    border-radius: 2px;
+    padding: 5px;
+}
+.container{
+    max-width: 1200px;
+    background-color: white;
+    border-radius: 3px;
+    margin: auto;
+    margin-top: 5px;
+    padding: 50px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 800;
+}
+.task{
+    font-size: 20px;
+    vertical-align: middle;
+}
+.material-symbols-outlined{
+    vertical-align: middle;
+}
+.editorial{
+    background-color: rgb(16, 86, 156);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 15px;
+    
+}
+.q1-goals{
+    background-color: rgb(149, 11, 183);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+.recruiting{
+    background-color: rgb(20, 195, 61);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+.mobile{
+    background-color: rgb(224, 164, 23);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+.website{
+    background-color: rgb(232, 16, 150);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;   
+}
+.sales{
+    background-color: rgb(153, 231, 26);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+li{
+    list-style: none;
+    list-style-type: none;
+}
